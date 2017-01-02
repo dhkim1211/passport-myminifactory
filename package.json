@@ -1,0 +1,19 @@
+{
+  "name": "passport-myminifactory",
+  "version": "1.0.0",
+  "description": "Passport strategy for MyMiniFactory API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhkim1211/passport-myminifactory.git"
+  },
+  "author": "David Kim <dhkim1211@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhkim1211/passport-myminifactory/issues"
+  },
+  "homepage": "https://github.com/dhkim1211/passport-myminifactory#readme"
+}
