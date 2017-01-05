@@ -1,6 +1,6 @@
 {
   "name": "passport-myminifactory",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Passport strategy for MyMiniFactory API",
   "main": "./lib/passport-myminifactory/index.js",
   "scripts": {
