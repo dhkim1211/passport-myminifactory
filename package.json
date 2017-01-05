@@ -1,8 +1,8 @@
 {
   "name": "passport-myminifactory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passport strategy for MyMiniFactory API",
-  "main": "index.js",
+  "main": "./lib/passport-myminifactory/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
